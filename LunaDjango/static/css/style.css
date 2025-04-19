@@ -1,0 +1,11 @@
+body {
+    background: url('/static/images/background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+}
+
+.card {
+    background: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+    color: white;
+}
+
